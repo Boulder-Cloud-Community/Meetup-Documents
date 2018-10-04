@@ -34,7 +34,7 @@ This Code of Conduct applies both within online spaces and in public spaces when
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Boulder Cloud Community Leadership team at ahedgpeth@10thmagnitudecom or medwards@10thmagnitude.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The leadership team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Boulder Cloud Community Leadership team at ahedgpeth@10thmagnitude.com or medwards@10thmagnitude.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The leadership team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Leaders who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the Boulder Cloud Community leadership team.
 
