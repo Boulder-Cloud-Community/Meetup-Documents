@@ -1,0 +1,16 @@
+<Name>,
+
+Thank you for joining the Boulder Cloud Community meet-up group. We're a welcoming community of folks who gather to talk about cloud tools and culture in downtown Boulder.
+
+I hope you'll join us Tuesday, <date> from 12:00 - 1:00 for the next meet-up.
+
+To promote a welcoming community, the Boulder Cloud Community leadership team has adopted a
+Code of Conduct (https://github.com/Boulder-Cloud-Community/Meetup-Documents/blob/master/code-of-conduct.md).
+
+What questions can I answer for you?
+
+Cheers,
+
+<Leader name>
+
+Boulder Cloud Community leadership team
